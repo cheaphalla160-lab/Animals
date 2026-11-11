@@ -1,0 +1,6 @@
+{
+  "name": "Animal Fun Phonics & Sorting Game",
+  "description": "Interactive primary school English vocabulary game for bat, fly, kangaroo, panda, and rabbit with big and small plate sorting, voice read-along, lively BGM, and leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
